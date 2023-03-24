@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Demo Deploy Vercel React App.
+          Demo Deploy Vercel React App Berhasil.
         </p>
        
       </header>
